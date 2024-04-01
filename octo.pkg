@@ -1,0 +1,12 @@
+{
+    version: "1.0.0",
+    name: "ClOdin",
+    owner: " SjVer",
+    description: "A command-line argument parser for Odin",
+    url: "https:/github.com/dvrd/ClOdin",
+    readme: "",
+    license: "",
+    keywords: [],
+    dependencies: {}
+}
+
